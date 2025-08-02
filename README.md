@@ -1,6 +1,6 @@
 # Facebook vs. AdWords Marketing Campaign Analysis
 
-A portfolio project demonstrating a comparative analysis of two marketing campaigns using Python. This repository contains the Jupyter Notebook and data required to reproduce the analysis, which includes A/B testing, hypothesis testing, and a simple linear regression model.
+This project demonstrating a comparative analysis of two marketing campaigns using Python. This repository contains the Jupyter Notebook and data required to reproduce the analysis, which includes A/B testing, hypothesis testing, and a simple linear regression model.
 
 ## Overview
 
