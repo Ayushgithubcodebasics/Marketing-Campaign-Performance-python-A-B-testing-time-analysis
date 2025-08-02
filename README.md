@@ -74,5 +74,4 @@ The bar chart below (generated in the notebook) shows the frequency of days fall
 
 ## Limitations
 
-* **Synthetic Data**: The dataset used is synthetic and contains exactly 365 entries for 2019. It is intended for demonstrating analytical techniques rather than drawing real-world business conclusions.
 * **Simplistic Model**: The regression model is a simple linear model and does not account for other potential factors like seasonality, ad spend, or creative variations.
