@@ -6,8 +6,6 @@ A portfolio project demonstrating a comparative analysis of two marketing campai
 
 This project analyzes a synthetic dataset of two year-long advertising campaigns, one on Facebook and one on AdWords, to determine which platform is more effective. The analysis identifies the better-performing platform based on conversions and clicks and builds a predictive model for the winning campaign.
 
-This is a portfolio project and not a real-world business case. The dataset is synthetic and designed to showcase data analysis techniques.
-
 ## Features
 
 * **Exploratory Data Analysis (EDA)**: Visualizations of click and conversion distributions.
