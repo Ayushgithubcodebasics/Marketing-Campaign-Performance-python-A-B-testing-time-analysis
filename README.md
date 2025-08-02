@@ -17,10 +17,7 @@ This is a portfolio project and not a real-world business case. The dataset is s
 
 ## Project Structure
 
-.├── AB Testing (Marketing Campaigns).ipynb├── marketing_campaign.csv└── README.md
-* `AB Testing (Marketing Campaigns).ipynb`: The Jupyter Notebook containing the full Python code for the analysis.
-* `marketing_campaign.csv`: The synthetic dataset used for the analysis, containing 365 days of campaign data for 2019.
-* `README.md`: This file.
+<img width="517" height="177" alt="image" src="https://github.com/user-attachments/assets/b30b3fbc-cc1c-45c7-b5df-bdfd7333e4a6" />
 
 ## Installation
 
