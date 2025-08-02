@@ -58,7 +58,8 @@ The detailed analysis is in the notebook. Here is a high-level summary of the fi
 
 The bar chart below (generated in the notebook) shows the frequency of days falling into different conversion categories. It clearly illustrates that the Facebook campaign had significantly more high-conversion days (10-15 and >15 conversions) than the AdWords campaign, which had none in these upper brackets.
 
-*(This chart is generated in the "Comparing Campaigns performance" section of the notebook.)*
+<img width="847" height="760" alt="image" src="https://github.com/user-attachments/assets/6c9c30bc-09f4-4d03-9e14-d1751ddaaa00" />
+
 
 ### Summary of Findings
 
@@ -75,7 +76,3 @@ The bar chart below (generated in the notebook) shows the frequency of days fall
 
 * **Synthetic Data**: The dataset used is synthetic and contains exactly 365 entries for 2019. It is intended for demonstrating analytical techniques rather than drawing real-world business conclusions.
 * **Simplistic Model**: The regression model is a simple linear model and does not account for other potential factors like seasonality, ad spend, or creative variations.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
